@@ -1,0 +1,16 @@
+body {
+    max-width: 400px;
+    margin: auto;
+}
+.input-box {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 300px;
+    }
+.message-content {
+    height: 600px;
+    background-color: #eee;
+    overflow: visible;
+
+}
